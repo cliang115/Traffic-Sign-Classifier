@@ -186,7 +186,6 @@ For the fifth image, the model is relatively sure that this is a No vehicles sig
 | 3.22660141e-36		| Speed limit (80km/h)		 					|
 | 0.00000000e+00		| Speed limit (20km/h)							|
 
-### (Optional) Visualizing the Neural Network (See Step 4 of the Ipython notebook for more details)
-#### 1. Discuss the visual output of your trained network's feature maps. What characteristics did the neural network use to make classifications?
+
 
 

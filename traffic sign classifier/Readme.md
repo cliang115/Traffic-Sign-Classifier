@@ -17,7 +17,7 @@ The goals / steps of this project are the following:
 
 [image1]: ./traffic.png "Visualization"
 [image2]:./bar_traffic.png "Bar Visualization"
-[image3]: ./traffic_sign_origninal.png "Original"
+[image3]: ./traffic_sign_original.png "Original"
 [image3.5]: ./traffic_sign_gray.png "Grayscaling"
 [image4]: ./test_images/11.jpg "Traffic Sign 1"
 [image5]: ./test_images/12.jpg "Traffic Sign 2"
